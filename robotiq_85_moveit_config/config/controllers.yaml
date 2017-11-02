@@ -4,4 +4,4 @@ controller_list:
     type: FollowJointTrajectory
     default: true
     joints:
-      - robotiq_85_left_knuckle_joint
+      - gripper_finger1_joint
